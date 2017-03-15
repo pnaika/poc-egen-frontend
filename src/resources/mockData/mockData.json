@@ -1,0 +1,1156 @@
+[
+  {
+    "deviceId": "149182B3AA58",
+    "Device Name": "WeMo_Insight",
+    "Device MAC": "149182B3AA58",
+    "Currency": "$",
+    "signalStrength": 91,
+    "energyCost": 0.111,
+    "Threshold": 8,
+    "Enery Usage": {
+      "dateTime": "2/17/2017 9:50:00 PM",
+      "powerConsumed": 0.00427
+    },
+    "DataUsed30Min" : [
+      {
+        "usedDate": "2017/03/07 00:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 23:59",
+        "powerConsumed": 0.00407
+      },
+      {
+        "usedDate": "2017/03/06 23:30",
+        "powerConsumed": 0.01191
+      },
+      {
+        "usedDate": "2017/03/06 23:00",
+        "powerConsumed": 0.01197
+      },
+      {
+        "usedDate": "2017/03/06 22:30",
+        "powerConsumed": 0.01225
+      },
+      {
+        "usedDate": "2017/03/06 22:00",
+        "powerConsumed": 0.01194
+      },
+      {
+        "usedDate": "2017/03/06 21:30",
+        "powerConsumed": 0.01198
+      },
+      {
+        "usedDate": "2017/03/06 21:00",
+        "powerConsumed": 0.01258
+      },
+      {
+        "usedDate": "2017/03/06 20:30",
+        "powerConsumed": 0.01227
+      },
+      {
+        "usedDate": "2017/03/06 20:00",
+        "powerConsumed": 0.00698
+      },
+      {
+        "usedDate": "2017/03/06 19:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 19:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 18:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 18:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 17:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 17:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 16:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 16:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 15:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 15:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 14:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 14:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 13:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 13:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 12:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 12:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 11:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 11:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 10:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 10:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 09:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 09:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 08:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 08:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 07:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 07:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 06:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 06:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 05:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 05:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 04:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 04:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 03:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 03:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 02:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 02:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/06 01:30",
+        "powerConsumed": 0.00044
+      },
+      {
+        "usedDate": "2017/03/06 01:00",
+        "powerConsumed": 0.00255
+      },
+      {
+        "usedDate": "2017/03/06 00:30",
+        "powerConsumed": 0.0004
+      },
+      {
+        "usedDate": "2017/03/05 23:59",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 23:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 23:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 22:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 22:00",
+        "powerConsumed": 0.00362
+      },
+      {
+        "usedDate": "2017/03/05 21:30",
+        "powerConsumed": 0.01165
+      },
+      {
+        "usedDate": "2017/03/05 21:00",
+        "powerConsumed": 0.01195
+      },
+      {
+        "usedDate": "2017/03/05 20:30",
+        "powerConsumed": 0.01196
+      },
+      {
+        "usedDate": "2017/03/05 20:00",
+        "powerConsumed": 0.01222
+      },
+      {
+        "usedDate": "2017/03/05 19:30",
+        "powerConsumed": 0.0118
+      },
+      {
+        "usedDate": "2017/03/05 19:00",
+        "powerConsumed": 0.00642
+      },
+      {
+        "usedDate": "2017/03/05 18:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 18:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 17:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 17:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 16:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 16:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 15:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 15:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 14:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 14:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 13:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 13:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 12:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 12:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 11:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 11:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 10:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 10:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 09:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 09:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 08:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 08:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 07:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 07:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 06:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 06:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 05:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 05:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 04:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 04:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 03:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 03:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 02:30",
+        "powerConsumed": 0.00088
+      },
+      {
+        "usedDate": "2017/03/05 02:00",
+        "powerConsumed": 0.00085
+      },
+      {
+        "usedDate": "2017/03/05 01:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/05 01:00",
+        "powerConsumed": 0.00123
+      },
+      {
+        "usedDate": "2017/03/05 00:30",
+        "powerConsumed": 0.01163
+      },
+      {
+        "usedDate": "2017/03/04 23:59",
+        "powerConsumed": 0.01189
+      },
+      {
+        "usedDate": "2017/03/04 23:30",
+        "powerConsumed": 0.01228
+      },
+      {
+        "usedDate": "2017/03/04 23:00",
+        "powerConsumed": 0.0119
+      },
+      {
+        "usedDate": "2017/03/04 22:30",
+        "powerConsumed": 0.0119
+      },
+      {
+        "usedDate": "2017/03/04 22:00",
+        "powerConsumed": 0.01234
+      },
+      {
+        "usedDate": "2017/03/04 21:30",
+        "powerConsumed": 0.01194
+      },
+      {
+        "usedDate": "2017/03/04 21:00",
+        "powerConsumed": 0.01225
+      },
+      {
+        "usedDate": "2017/03/04 20:30",
+        "powerConsumed": 0.012
+      },
+      {
+        "usedDate": "2017/03/04 20:00",
+        "powerConsumed": 0.01195
+      },
+      {
+        "usedDate": "2017/03/04 19:30",
+        "powerConsumed": 0.01223
+      },
+      {
+        "usedDate": "2017/03/04 19:00",
+        "powerConsumed": 0.01174
+      },
+      {
+        "usedDate": "2017/03/04 18:30",
+        "powerConsumed": 0.01239
+      },
+      {
+        "usedDate": "2017/03/04 18:00",
+        "powerConsumed": 0.00647
+      },
+      {
+        "usedDate": "2017/03/04 17:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 17:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 16:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 16:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 15:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 15:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 14:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 14:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 13:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 13:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 12:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 12:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 11:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 11:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 10:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 10:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 09:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 09:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 08:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 08:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 07:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 07:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 06:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 06:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 05:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 05:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 04:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 04:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 03:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 03:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 02:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 02:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 01:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 01:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/04 00:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 23:59",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 23:38",
+        "powerConsumed": 0.00453
+      },
+      {
+        "usedDate": "2017/03/03 23:08",
+        "powerConsumed": 0.01187
+      },
+      {
+        "usedDate": "2017/03/03 22:38",
+        "powerConsumed": 0.01228
+      },
+      {
+        "usedDate": "2017/03/03 22:08",
+        "powerConsumed": 0.01194
+      },
+      {
+        "usedDate": "2017/03/03 21:38",
+        "powerConsumed": 0.00505
+      },
+      {
+        "usedDate": "2017/03/03 21:08",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 20:38",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 20:08",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 19:36",
+        "powerConsumed": 0.00246
+      },
+      {
+        "usedDate": "2017/03/03 19:30",
+        "powerConsumed": 0.0058
+      },
+      {
+        "usedDate": "2017/03/03 19:00",
+        "powerConsumed": 0.00858
+      },
+      {
+        "usedDate": "2017/03/03 18:30",
+        "powerConsumed": 0.00637
+      },
+      {
+        "usedDate": "2017/03/03 18:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 17:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 17:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 16:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 16:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 15:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 15:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 14:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 14:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 13:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 13:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 12:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 12:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 11:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 11:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 10:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 10:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 09:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 09:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 08:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 08:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 07:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 07:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 06:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 06:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 05:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 05:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 04:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 04:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 03:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 03:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 02:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 02:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 01:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 01:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/03 00:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 23:59",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 23:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 23:00",
+        "powerConsumed": 0.00204
+      },
+      {
+        "usedDate": "2017/03/02 22:30",
+        "powerConsumed": 0.0118
+      },
+      {
+        "usedDate": "2017/03/02 22:00",
+        "powerConsumed": 0.01212
+      },
+      {
+        "usedDate": "2017/03/02 21:30",
+        "powerConsumed": 0.01193
+      },
+      {
+        "usedDate": "2017/03/02 21:00",
+        "powerConsumed": 0.01228
+      },
+      {
+        "usedDate": "2017/03/02 20:30",
+        "powerConsumed": 0.01178
+      },
+      {
+        "usedDate": "2017/03/02 20:00",
+        "powerConsumed": 0.00718
+      },
+      {
+        "usedDate": "2017/03/02 19:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 19:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 18:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 18:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 17:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 17:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 16:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 16:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 15:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 15:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 14:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 14:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 13:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 13:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 12:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 12:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 11:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 11:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 10:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 10:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 09:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 09:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 08:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 08:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 07:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 07:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 06:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 06:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 05:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 05:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 04:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 04:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 03:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 03:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 02:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 02:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 01:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 01:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/02 00:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/01 23:59",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/03/01 23:37",
+        "powerConsumed": 0.00162
+      }
+    ]
+  },
+  {
+    "deviceId": "149182B3AA57",
+    "Device Name": "WeMo_Insight02",
+    "Device MAC": "149182B3AA59",
+    "Currency": "$",
+    "signalStrength": 81,
+    "energyCost": 0.211,
+    "Threshold": 8,
+    "Enery Usage": {
+      "dateTime": "2/19/2017 9:50:00 PM",
+      "powerConsumed": 0.06
+    },
+    "DataUsed30Min" :[
+      {
+        "usedDate": "2017/03/01 23:07",
+        "powerConsumed": 0.01186
+      },
+      {
+        "usedDate": "2017/03/01 22:37",
+        "powerConsumed": 0.01225
+      },
+      {
+        "usedDate": "2017/03/01 22:07",
+        "powerConsumed": 0.01154
+      },
+      {
+        "usedDate": "2017/03/01 21:36",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/02/18 12:11",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/02/18 11:19",
+        "powerConsumed": 0.00006
+      },
+      {
+        "usedDate": "2017/02/18 10:49",
+        "powerConsumed": 0.00006
+      },
+      {
+        "usedDate": "2017/02/18 10:19",
+        "powerConsumed": 0.00009
+      },
+      {
+        "usedDate": "2017/02/18 09:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 09:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 08:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 08:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 07:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 07:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 06:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 06:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 05:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 05:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 04:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 04:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 03:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 03:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 02:49",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 02:19",
+        "powerConsumed": 0.00012
+      },
+      {
+        "usedDate": "2017/02/18 01:49",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/02/18 01:30",
+        "powerConsumed": 0.00029
+      },
+      {
+        "usedDate": "2017/02/18 01:00",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/02/18 00:49",
+        "powerConsumed": 0.00724
+      },
+      {
+        "usedDate": "2017/02/18 00:30",
+        "powerConsumed": 0
+      },
+      {
+        "usedDate": "2017/02/17 23:59",
+        "powerConsumed": 0.00402
+      },
+      {
+        "usedDate": "2017/02/17 23:35",
+        "powerConsumed": 0.01522
+      },
+      {
+        "usedDate": "2017/02/17 23:05",
+        "powerConsumed": 0.01654
+      },
+      {
+        "usedDate": "2017/02/17 22:35",
+        "powerConsumed": 0.0156
+      },
+      {
+        "usedDate": "2017/02/17 22:05",
+        "powerConsumed": 0.00997
+      },
+      {
+        "usedDate": "2017/02/17 21:35",
+        "powerConsumed": 0.01752
+      },
+      {
+        "usedDate": "2017/02/17 21:05",
+        "powerConsumed": 0.03488
+      },
+      {
+        "usedDate": "2017/02/17 20:35",
+        "powerConsumed": 0.00952
+      }
+    ]
+  }
+]

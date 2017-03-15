@@ -1,0 +1,25 @@
+{
+  "name": "poc-egen-frontend",
+  "version": "1.0.0",
+  "description": "Electricity Usage Analyzer and Anomaly Detector",
+  "homepage": "https://github.com/pnaika/poc-egen-frontend#readme",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "html5-boilerplate": "~5.2.0",
+    "bootstrap": "3.3.6",
+    "jQuery": "2.2.1",
+    "d3": "^4.7.3",
+    "nvd3": "^1.8.5",
+    "angular-nvd3": "^1.0.9",
+    "highcharts": "^5.0.9"
+  },
+  "resolutions": {
+    "d3": "^4.7.3",
+    "angular": "^1.x"
+  }
+}
