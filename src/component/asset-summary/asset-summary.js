@@ -27,28 +27,6 @@ function assetSummaryCtrl(dataService, $routeParams) {
         timeValue =_.map(vm.assetData .DataUsed30Min , function(res) {return res.usedDate});
         powerConsumedIn30Mins =_.map(vm.assetData.DataUsed30Min, function(res) {return res.powerConsumed});
 
-        // Highcharts.chart('barGraph', {
-        //     chart: {
-        //         type: 'bar'
-        //     },
-        //     title: {
-        //         text: 'Device Details'
-        //     },
-        //     xAxis: {
-        //         categories: ['signalStrength', 'energyCost', 'Threshold'],
-        //         title: {
-        //             text: null
-        //         }
-        //     },
-        //     credits: {
-        //         enabled: false
-        //     },
-        //     series: [{
-        //         data: [vm.assetData.signalStrength , vm.assetData.energyCost, vm.assetData.Threshold]
-        //     }]
-        // });
-
-
         Highcharts.chart('container', {
             title: {
                 text: 'Data Usage in 30 Minute Difference'
