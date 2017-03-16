@@ -1,0 +1,68 @@
+<div class="profile-page">
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-primary">
+            <div class="panel-heading" role="tab"  ng-click="vm.toggleCustomOne()">
+                <h4 class="panel-title">
+                    <a role="button" data-toggle="collapse" data-parent="#accordion" aria-expanded="true" aria-controls="collapseOne">
+                        <div class="row">
+                            <div class="text-left col-lg-12">
+                                <span class="col-sm-12">Electricity Usage Analysis and Details of {{ vm.assetData.deviceName }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </h4>
+            </div>
+            <div ng-hide="vm.customOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-2">
+                            Device ID :
+                        </div>
+                        <div class="col-md-4">
+                            {{ vm.assetData.deviceId }}
+                        </div>
+                        <div class="col-md-2">
+                            Energy Cost :
+                        </div>
+                        <div class="col-md-4">
+                            {{ vm.assetData.energyCost }}
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            Currency :
+                        </div>
+                        <div class="col-md-4">
+                            {{ vm.assetData.Currency }}
+                        </div>
+                        <div class="col-md-2">
+                            Device MAC :
+                        </div>
+                        <div class="col-md-4">
+                            {{ vm.assetData.deviceMAC }}
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            Signal Strength :
+                        </div>
+                        <div class="col-md-4">
+                            {{ vm.assetData.signalStrength }}
+                        </div>
+                        <div class="col-md-2">
+                            Threshold :
+                        </div>
+                        <div class="col-md-4">
+                            {{ vm.assetData.Threshold }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!--<div id="barGraph" class="graph30min">Placeholder for chart</div>-->
+
+    <div id="container" class="graph30min">Placeholder for chart</div>
+</div>

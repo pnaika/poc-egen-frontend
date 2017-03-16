@@ -16,10 +16,11 @@
     "d3": "^4.7.3",
     "nvd3": "^1.8.5",
     "angular-nvd3": "^1.0.9",
-    "highcharts": "^5.0.9"
+    "highcharts": "^5.0.9",
+    "angular-ui-grid": "^4.0.2"
   },
   "resolutions": {
     "d3": "^4.7.3",
-    "angular": "^1.x"
+    "angular": "^1.6.3"
   }
 }
